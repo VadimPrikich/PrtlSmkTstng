@@ -1,0 +1,2 @@
+# PrtlSmkTstng
+self training 
