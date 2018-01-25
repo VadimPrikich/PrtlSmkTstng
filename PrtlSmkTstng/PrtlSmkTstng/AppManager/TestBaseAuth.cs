@@ -18,7 +18,7 @@ namespace mPortal
         //Метод setup где создаётся driver
         public void SetupLogin()
         {     
-            app.Auth.Login(new AccountData("vadim.prikich@p97.com", "Valentina2"));
+            app.Auth.Login(new AccountData("fhjf.com", "Vajggk"));
         }
     }
 }

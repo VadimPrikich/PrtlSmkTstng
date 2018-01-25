@@ -17,7 +17,7 @@ namespace mPortal
             app.Auth.Logout();
             //выполняем логин с нужными данными
             //вынесем данные аккаунта под переменную 
-            AccountData account = new AccountData("Vadim.priKich@p97.com", "Valentina2");
+            AccountData account = new AccountData("Vsddssom", "Vasdsdna2");
             app.Auth.Login(account);
 
         //выполняем проверку что залогинились
@@ -35,7 +35,7 @@ namespace mPortal
             //app.Auth.Logout();
             //выполняем логин с нужными данными
             //вынесем данные аккаунта под переменную 
-            AccountData account = new AccountData("qa@p97.com", "Welcome1!");
+            AccountData account = new AccountData("qzxzx.com", "Wzxz!");
             app.Auth.Login(account);
             //выполняем проверку что залогинились
             Assert.IsTrue(app.Auth.IsLoggedIn(account));

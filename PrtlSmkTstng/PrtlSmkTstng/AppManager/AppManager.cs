@@ -43,7 +43,7 @@ namespace mPortal
         private AppManager()
         {
             driver = new FirefoxDriver();
-            baseURL = "https://manage-qa.petrozone.com";
+            baseURL = "https://example.com";
             //добовляем код для создания помощников
             //в качестве объекта передаём только что созданный объект типа драйвер
             

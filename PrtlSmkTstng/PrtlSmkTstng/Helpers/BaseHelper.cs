@@ -69,7 +69,7 @@ namespace mPortal
         public bool UserIsOnQAPortal()
         {
             string URL = driver.Url.ToString();
-            return Assert.Equals(URL, "https://manage-qa.petrozone.com/");
+            return Assert.Equals(URL, "https://mxcxcxc.com/");
         }
 
         //public bool WaitUntilLoaderHidden(this IWebDriver driver, int timeout = 10)
